@@ -1,1 +1,1 @@
-# .github
+Please visit https://aireflags.com/
